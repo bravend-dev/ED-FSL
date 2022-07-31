@@ -1,0 +1,11 @@
+/__pycache__
+/.idea
+/checkpoints/*
+/datasets/*
+/log-tc
+/logs-tc
+/*/__pycache__
+/*.err
+/commands.arxiv
+/commands.txt
+/*.txt
